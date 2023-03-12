@@ -1,4 +1,4 @@
-function valid(formulario) {
+/**function valid(formulario) {
     var form = true;
     var mensaje = "Por favor, completar los campos:";
 if(formulario.elements[0]. value == "") {
@@ -22,4 +22,4 @@ mensaje += " - telefono";
  alert(mensaje);
  else
 return alert("Muchas gracias por enviar el formulario");
-  }
+  }*/
